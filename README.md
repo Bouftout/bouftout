@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Bouftout
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouftout&theme=tokyonight)
+![](https://raw.githubusercontent.com/Bouftout/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Bouftout/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!---
