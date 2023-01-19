@@ -5,10 +5,10 @@
 
 <img align="left" src="https://tonipastre.alwaysdata.net/code.png">
 
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouftout&theme=tokyonight)
 
 ![Bouftout GitHub stats](https://github-readme-stats.vercel.app/api?username=Bouftout&show_icons=true&theme=transparent)
 
-<!---
 Comm
 --->
