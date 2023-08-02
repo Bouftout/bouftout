@@ -16,4 +16,4 @@ Je dev principalement en javascript !
 2. Eastward (💔Sam)
 3. A Hat in Time
 4. Signalis
-5. Katana zero :katanazero:
+5. Katana zero <img src="https://github.com/ToniPortal/ToniPortal/blob/main/emoji/katanazero.gif" alt="katanazero" width="2%" height="3%">
