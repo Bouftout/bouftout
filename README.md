@@ -1,15 +1,19 @@
-<H1 align = "center">👋 :student:	</h1>
+<H1 align = "center">👋 It's me Toni ! :student:	</h1>
 
 
 ![discordbadge](https://dcbadge.vercel.app/api/shield/255061967977447433)
+| <img src="https://c.tenor.com/mKRV-5rBGYgAAAAC/tenor.gif" alt="ahatintimedancing" width="150" height="150"> | Dancing ~~<br> |
+| --- | ------------- |
 
-<!---
-<img align="left" src="https://pastretoni.alwaysdata.net/code.png">
+### A propos de moi !
+
+Je dev principalement en javascript !  
+[Cliquez ici pour voir mon CV](https://github.com/ToniPortal/ToniPortal/blob/main/Toni_PASTRE-CV_2023-V4.2.pdf)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouftout&theme=tokyonight)
-
-![Bouftout GitHub stats](https://github-readme-stats.vercel.app/api?username=Bouftout&show_icons=true&theme=transparent)
-
-Comm
---->
+### Jeux préférés
+1. Nier automata (💔2B et 9S)
+2. Eastward (💔Sam)
+3. A Hat in Time
+4. Signalis
+5. Katana zero :katanazero:
